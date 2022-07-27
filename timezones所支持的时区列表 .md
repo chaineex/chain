@@ -2,8 +2,10 @@ timezones所支持的时区列表
 
 https://www.php.net/manual/zh/timezones.php
 
-
-l version="1.0" encoding="UTF-8"?>
+###########Java主要城市时区对照表
+```
+{
+<?xml version="1.0" encoding="UTF-8"?>
 <timezones>
 <timezone id="Asia/Shanghai">中国标准时间 (北京)</timezone>
 <timezone id="Asia/Hong_Kong">香港时间 (香港)</timezone>
@@ -89,3 +91,5 @@ l version="1.0" encoding="UTF-8"?>
 <timezone id="Pacific/Fiji">斐济</timezone>
 <timezone id="Pacific/Tongatapu">东加塔布</timezone>
 </timezones> 
+}
+```
